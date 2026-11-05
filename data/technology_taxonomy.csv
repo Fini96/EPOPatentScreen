@@ -1,0 +1,66 @@
+category_id,group_id,group,category_en,category_zh_hans,category_zh_hant
+e_cvd,equip,"Process equipment, lithography tools & resists",CVD / ALD processes & equipment,化学气相沉积/原子层沉积,化學氣相沉積/原子層沉積
+e_handle,equip,"Process equipment, lithography tools & resists",Wafer handling & processing apparatus,晶圆处理装置,晶圓處理裝置
+e_litho,equip,"Process equipment, lithography tools & resists","Lithography tools, masks & resists",光刻设备/掩模/光刻胶,微影設備/光罩/光阻
+e_plasma,equip,"Process equipment, lithography tools & resists",Plasma processing equipment,等离子体工艺设备,電漿製程設備
+i_3d,pkg,"Packaging, integration & interconnect",3D stacking / monolithic 3D integration,三维堆叠/单片三维集成,三維堆疊/單晶三維整合
+i_beol,pkg,"Packaging, integration & interconnect",On-chip interconnect (BEOL),片上互连(后道),晶片內連線(後段)
+i_bspdn,pkg,"Packaging, integration & interconnect",Backside power delivery,背面供电,背面供電
+i_bump,pkg,"Packaging, integration & interconnect","Bumps, wire bonds & package interconnects",凸块/引线键合/封装互连,凸塊/打線接合/封裝互連
+i_chiplet,pkg,"Packaging, integration & interconnect",Chiplets / 2.5D / interposer,芯粒/2.5D/中介层,小晶片/2.5D/中介層
+i_eda,eda,IC design / EDA,IC design / EDA,集成电路设计/EDA,積體電路設計/EDA
+i_encap,pkg,"Packaging, integration & interconnect",Encapsulation & housings,塑封与封装外壳,封膠與封裝外殼
+i_fanout,pkg,"Packaging, integration & interconnect",Fan-out / wafer- & panel-level packaging,扇出型/晶圆级/面板级封装,扇出型/晶圓級/面板級封裝
+i_glass,pkg,"Packaging, integration & interconnect",Glass substrates / through-glass via,玻璃基板/玻璃通孔,玻璃基板/玻璃通孔
+i_hybrid,pkg,"Packaging, integration & interconnect",Hybrid bonding,混合键合,混合鍵合
+i_powmod,power,Power semiconductors,Power modules,功率模块,功率模組
+i_substr,pkg,"Packaging, integration & interconnect",Package substrates & leadframes,封装基板与引线框架,封裝基板與導線架
+i_thermal,pkg,"Packaging, integration & interconnect",Thermal management of chips/packages,芯片与封装散热,晶片與封裝散熱
+i_tsv,pkg,"Packaging, integration & interconnect",Through-silicon via (TSV),硅通孔,矽穿孔
+m_cim,mem,Memory devices,Compute-in-memory,存算一体,記憶體內運算
+m_dram,mem,Memory devices,DRAM,动态随机存取存储器,動態隨機存取記憶體
+m_mram,mem,Memory devices,MRAM / spintronic memory,磁性随机存储器/自旋电子,磁阻式記憶體/自旋電子
+m_nand,mem,Memory devices,NAND / 3D NAND flash,NAND/三维闪存,NAND/3D快閃記憶體
+m_pcm,mem,Memory devices,Phase-change memory,相变存储器,相變記憶體
+m_rram,mem,Memory devices,RRAM / memristor,阻变存储器/忆阻器,電阻式記憶體/憶阻器
+p_bond,proc,Front-end fabrication processes,Wafer bonding & layer transfer,晶圆键合与层转移,晶圓接合與層轉移
+p_cmp,proc,Front-end fabrication processes,CMP & cleaning,化学机械抛光与清洗,化學機械研磨與清洗
+p_dep,proc,Front-end fabrication processes,Deposition & epitaxy,薄膜沉积与外延,薄膜沉積與磊晶
+p_dicing,proc,Front-end fabrication processes,Dicing & singulation,切割与划片,切割與晶粒分離
+p_dope,proc,Front-end fabrication processes,Doping & annealing,掺杂与退火,摻雜與退火
+p_etch,proc,Front-end fabrication processes,Etching,刻蚀,蝕刻
+p_handle,proc,Front-end fabrication processes,Wafer handling & process apparatus,晶圆传输与工艺装置,晶圓傳送與製程裝置
+p_litho,proc,Front-end fabrication processes,Lithography & patterning (process),光刻与图形化,微影與圖案化
+p_test,proc,Front-end fabrication processes,In-line test & metrology,在线检测与量测,線上檢測與量測
+q_algo,qc,Quantum computing,Quantum algorithms & software,量子算法与软件,量子演算法與軟體
+q_atom,qc,Quantum computing,Neutral atoms,中性原子,中性原子
+q_chip,qc,Quantum computing,Qubit coupling & quantum-chip architecture,量子比特耦合与量子芯片架构,量子位元耦合與量子晶片架構
+q_cryo,qc,Quantum computing,"Cryogenics, control & readout",低温、测控与读取,低溫、量測控制與讀取
+q_ion,qc,Quantum computing,Trapped-ion,离子阱,離子阱
+q_phot,qc,Quantum computing,Photonic quantum computing,光量子计算,光量子計算
+q_qec,qc,Quantum computing,Quantum error correction / mitigation,量子纠错与误差缓解,量子錯誤更正與誤差緩解
+q_sc,qc,Quantum computing,Superconducting qubits & devices,超导量子比特与超导器件,超導量子位元與超導元件
+q_spin,qc,Quantum computing,Spin / semiconductor qubits,自旋/半导体量子比特,自旋/半導體量子位元
+q_topo,qc,Quantum computing,Topological approaches,拓扑量子,拓撲量子
+t_2d,mat,Emerging semiconductor materials,2D-material devices,二维材料器件,二維材料元件
+t_cfet,tran,Transistors & device structures,CFET / stacked transistors,互补场效应晶体管(CFET)/堆叠晶体管,互補式場效電晶體(CFET)/堆疊電晶體
+t_dispbp,opto,"Optoelectronics, sensors & displays",Display backplanes / array substrates,显示面板阵列基板,顯示面板陣列基板
+t_ferro,mem,Memory devices,Ferroelectric devices (FeFET / FeRAM),铁电器件(FeFET/FeRAM),鐵電元件(FeFET/FeRAM)
+t_finfet,tran,Transistors & device structures,FinFET,鳍式场效应晶体管,鰭式場效電晶體
+t_ga2o3,power,Power semiconductors,Ga2O3 devices,氧化镓器件,氧化鎵元件
+t_gaa,tran,Transistors & device structures,GAA / nanosheet transistor,全环绕栅极(GAA)/纳米片晶体管,環繞式閘極(GAA)/奈米片電晶體
+t_gan,power,Power semiconductors,GaN devices / HEMT,氮化镓器件/高电子迁移率晶体管,氮化鎵元件/高電子遷移率電晶體
+t_igbt,power,Power semiconductors,IGBT,绝缘栅双极型晶体管,絕緣閘雙極電晶體
+t_iiiv,mat,Emerging semiconductor materials,III-V devices (GaAs / InP),III-V族器件(砷化镓/磷化铟),III-V族元件(砷化鎵/磷化銦)
+t_imgsens,opto,"Optoelectronics, sensors & displays",Image sensors,图像传感器,影像感測器
+t_isol,tran,Transistors & device structures,Device isolation & buried regions,器件隔离与埋层,元件隔離與埋層
+t_led,opto,"Optoelectronics, sensors & displays",Micro-LED / Mini-LED,微型/次毫米发光二极管,微型/次毫米發光二極體
+t_oxide,mat,Emerging semiconductor materials,Oxide semiconductor (IGZO etc.),氧化物半导体,氧化物半導體
+t_powsi,power,Power semiconductors,Si power MOSFET (trench / superjunction / LDMOS),硅功率MOSFET(沟槽/超结/LDMOS),矽功率MOSFET(溝槽/超接面/LDMOS)
+t_sic,power,Power semiconductors,SiC devices,碳化硅器件,碳化矽元件
+t_tft,tran,Transistors & device structures,Thin-film transistor (TFT),薄膜晶体管,薄膜電晶體
+x_clock,qcs,Quantum communication & sensing,Atomic clocks,原子钟,原子鐘
+x_nmr,nmr,Other: magnetic-resonance analysis,"Magnetic-resonance analysis (G01N24, broad)",磁共振分析,磁共振分析
+x_qcomm,qcs,Quantum communication & sensing,Quantum communication & networks,量子通信与量子网络,量子通訊與量子網路
+x_qkd,qcs,Quantum communication & sensing,QKD / quantum cryptography,量子密钥分发,量子金鑰分發
+x_qmag,qcs,Quantum communication & sensing,Quantum magnetometry (NV / atomic / SQUID),量子磁测(NV色心/原子/SQUID),量子磁測(NV色心/原子/SQUID)
